@@ -11,10 +11,11 @@
 int main()
 {
 //Decleade Integer n and write scanf code bellow 
+int n = 20;
 
 
 //if you write correcr code your value will print
-printf("%d",n);
+printf("%d\n",n);
 printf("Good Job...");
 return 0;
 }
